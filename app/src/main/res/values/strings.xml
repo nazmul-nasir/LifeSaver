@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Life Saver</string>
+    <string name="name">name</string>
+    <string name="username">username</string>
+    <string name="address">address</string>
+    <string name="action_settings">Settings</string>
+</resources>
