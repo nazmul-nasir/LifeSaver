@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(getApplicationContext(),RegularLoginClass.class);
             startActivity(intent);
         }
+        //test
     }
 
     @Override
